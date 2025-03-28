@@ -1,0 +1,7 @@
+2025-03-27 09:45:59,403 - INFO - Application started
+2025-03-27 09:45:59,403 - INFO - Performing task 1
+2025-03-27 09:45:59,403 - WARNING - This is a warning message
+2025-03-27 09:45:59,403 - ERROR - This is an error message
+2025-03-27 09:45:59,403 - INFO - Application finished
+2025-03-27 09:49:02,802 - INFO - Script started
+2025-03-27 09:49:02,803 - INFO - Task completed successfully

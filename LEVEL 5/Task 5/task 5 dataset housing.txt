@@ -1,0 +1,9 @@
+price,sqft,bedrooms,bathrooms,neighborhood
+350000,1800,3,2,Suburb A
+420000,2000,4,2.5,Suburb B
+275000,1500,3,1.5,Suburb C
+500000,2500,4,3,Suburb A
+320000,1700,3,2,Suburb B
+380000,1900,4,2,Suburb C
+450000,2200,4,2.5,Suburb A
+290000,1600,3,2,Suburb B

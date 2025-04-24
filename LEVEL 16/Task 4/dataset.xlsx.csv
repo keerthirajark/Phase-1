@@ -1,0 +1,11 @@
+match_id,team1,team2,winner,result_type,tie_breaker,is_completed,venue,match_date,umpire1,umpire2
+1,India,Australia,India,win,None,TRUE,MCG,10-01-2023,David Boon,Aleem Dar
+2,England,New Zealand,Tie,super_over,super_over,TRUE,Lord's,15-01-2023,Kumar Dharmasena,Marais Erasmus
+3,South Africa,West Indies,South Africa,win,None,TRUE,Newlands,20-01-2023,Nitin Menon,Richard Illingworth
+4,Pakistan,Sri Lanka,Tie,bowl_out,bowl_out,TRUE,Gaddafi Stadium,25-01-2023,Chris Gaffaney,Paul Reiffel
+5,Bangladesh,Afghanistan,Afghanistan,win,None,TRUE,Shere Bangla,30-01-2023,Richard Kettleborough,Rod Tucker
+6,India,England,None,None,None,FALSE,Wankhede,05-02-2023,Michael Gough,Joel Wilson
+7,Australia,New Zealand,Tie,count_boundaries,count_boundaries,TRUE,SCG,10-02-2023,Bruce Oxenford,Langton Rusere
+8,South Africa,Pakistan,South Africa,win,None,TRUE,Wanderers,15-02-2023,Ahsan Raza,Adrian Holdstock
+9,West Indies,Sri Lanka,Tie,super_over,super_over,TRUE,Kensington Oval,20-02-2023,Chris Brown,Allahudien Paleker
+10,Bangladesh,Zimbabwe,None,None,None,FALSE,Harare,25-02-2023,Shaun George,Wayne Knights
